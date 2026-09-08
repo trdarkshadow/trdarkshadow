@@ -136,18 +136,6 @@ mindmap
 
 ---
 
-## 📊 Shadow Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trdarkshadow&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=808080&count_private=true&include_all_commits=true" height="180" alt="GitHub Statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trdarkshadow&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=8B0000&text_color=808080&langs_count=8" height="180" alt="Top Languages">
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
