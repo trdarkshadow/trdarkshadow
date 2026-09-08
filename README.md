@@ -6,7 +6,7 @@
 
 ### `Identity unknown. Code speaks for itself.`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8B0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=I+build+things+in+the+dark.;I+combine+code+with+AI.;I+help+others+without+revealing+my+identity.;Python+%7C+Rust+%7C+JavaScript+%7C+TypeScript+%7C+Bash" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=300&pause=800&color=8B0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=I+build+things+in+the+dark.;I+combine+code+with+AI.;I+help+others+without+revealing+my+identity.;Python+%7C+Rust+%7C+JavaScript+%7C+TypeScript+%7C+Bash" alt="Typing SVG">
 
 </div>
 
