@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:8B0000&height=220&section=header&text=Anonymous%20Shadow&fontSize=46&fontColor=8B0000&animation=fadeIn&desc=A%20person%20who%20wants%20to%20help%20others%20but%20does%20not%20wish%20to%20reveal%20their%20identity&descSize=15&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:8B0000&height=220&section=header&text=Anonymous%20Shadow&fontSize=46&fontColor=8B0000&animation=fadeIn&desc=A%20person%20who%20wants%20to%20help%20others%20but%20does%20not%20wish%20to%20reveal%20their%20identity&descSize=15&descAlignY=68" alt="Anonymous Shadow">
 
 # 🕶️ Anonymous Shadow
 
@@ -14,71 +14,42 @@
 
 ## 🌑 About Me
 
-```python
-class AnonymousShadow:
-    alias = "trdarkshadow"
-    identity = "Unknown"
-
-    languages = [
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "Rust",
-        "Bash"
-    ]
-
-    technologies = [
-        "Node.js",
-        "Flutter",
-        "Git",
-        "GitHub",
-        "AI"
-    ]
-
-    mission = "Help others without revealing my identity"
-
-    @staticmethod
-    def whoami():
-        return "404: Identity Not Found"
-
-
-print(AnonymousShadow.whoami())
-```
-
 > **A person who wants to help others but does not wish to reveal their identity.**
+
+I am **Anonymous Shadow**, known as `trdarkshadow`.
+
+I build software, experiment with new technologies and use AI as a development partner.
+
+I prefer to stay behind the code rather than behind a name.
 
 ---
 
-## 🧠 How I Code
+## 🕸️ My Mind
 
-```text
-       ┌───────────────┐
-       │     IDEA      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │   RESEARCH    │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │   AI + HUMAN  │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     CODE      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │  TEST / BREAK │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     FIX       │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     SHIP      │
-       └───────────────┘
+```mermaid
+mindmap
+  root((Anonymous Shadow))
+    Code
+      Python
+      JavaScript
+      TypeScript
+      Rust
+      Bash
+    Technologies
+      Node.js
+      Flutter
+      Git
+      GitHub
+    AI
+      Brainstorming
+      Research
+      Debugging
+      Prototyping
+    Philosophy
+      Anonymous
+      Open Source
+      Help Others
+      Keep Learning
 ```
 
 ---
@@ -87,11 +58,11 @@ print(AnonymousShadow.whoami())
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=DEA584)](https://www.rust-lang.org/)
-[![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge\&logo=gnu-bash\&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=DEA584)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge\&logo=gnu-bash\&logoColor=4EAA25)
 
 </div>
 
@@ -101,11 +72,11 @@ print(AnonymousShadow.whoami())
 
 <div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)](https://nodejs.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge\&logo=flutter\&logoColor=02569B)](https://flutter.dev/)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=FCC624)](https://www.linux.org/)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge\&logo=flutter\&logoColor=02569B)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 
 </div>
 
@@ -113,32 +84,55 @@ print(AnonymousShadow.whoami())
 
 ## 🤖 AI × Code
 
-I use AI as a **second mind** for:
-
-* 🧠 Brainstorming
-* 🔎 Research
-* 🐛 Debugging
-* ⚡ Rapid prototyping
-* 🛠️ Automation
-* 💡 Turning ideas into working projects
-
-**I don't let AI replace the code. I use AI to build better code.**
+```text
+                 ┌───────────────┐
+                 │      IDEA     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   RESEARCH    │
+                 └───────┬───────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │      AI + HUMAN     │
+              └──────────┬──────────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      CODE     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ TEST / BREAK  │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      FIX      │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      SHIP     │
+                 └───────────────┘
+```
 
 ---
 
-## 🕸️ What I Like
+## 🕷️ What I Build
 
-```text
-> Open Source
-> Useful tools
-> Automation
-> AI-assisted development
-> Backend
-> Scripting
-> Cybersecurity
-> Learning by breaking things
-> Helping people anonymously
-```
+* 🐍 Python tools
+* 🌐 JavaScript / TypeScript projects
+* 🦀 Rust experiments
+* 🖥️ Bash automation
+* ⚡ Node.js applications
+* 📱 Flutter applications
+* 🤖 AI-assisted tools
+* 🔧 Open-source utilities
+* 🧪 Experimental projects
 
 ---
 
@@ -158,7 +152,7 @@ I use AI as a **second mind** for:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=trdarkshadow&theme=dark&hide_border=true&background=00000000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com?user=trdarkshadow&theme=dark&hide_border=true&background=00000000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" alt="GitHub Streak">
 
 </div>
 
@@ -168,7 +162,7 @@ I use AI as a **second mind** for:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 
 </div>
 
@@ -178,7 +172,7 @@ I use AI as a **second mind** for:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=trdarkshadow&label=SHADOW+VISITORS&color=8B0000&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=trdarkshadow&label=SHADOW+VISITORS&color=8B0000&style=for-the-badge" alt="Shadow Visitors">
 
 </div>
 
@@ -192,6 +186,8 @@ I use AI as a **second mind** for:
 
 ### `Identity: 404`
 
-</div>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:1a1a1a,100:000000&height=140&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:1a1a1a,100:000000&height=140&section=footer" alt="Footer">
+
+</div>
